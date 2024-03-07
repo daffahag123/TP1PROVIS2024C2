@@ -10,3 +10,7 @@ Program ini menggunakan konsep Object-Oriented Programming (OOP) dan Asynchronou
    - Menggunakan Future dan async-await untuk mengimplementasikan asynchronous programming.
    - Metode-metode dalam kelas Calculator, seperti hitungSegitiga, hitungPersegi, hitungLingkaran, dan kalimatPenutup, mengembalikan objek Future. Ini memungkinkan untuk melakukan operasi yang berpotensi memakan waktu tanpa harus menunggu hasilnya langsung.
    - Pada fungsi main(), menggunakan kata kunci async untuk membuatnya menjadi asynchronous. Dengan demikian, dapat menggunakan kata kunci await untuk menunggu hasil dari operasi yang memakan waktu seperti penghitungan luas segitiga, persegi, dan lingkaran, serta menampilkan pesan penutup.
+
+# Dokumentasi Program
+1. Pilih opsi 1 jika Anda ingin menghitung luas segitiga. Anda akan diminta untuk memasukkan nilai alas dan tinggi segitiga. Setelah itu, program akan menampilkan hasil luas segitiga dan pesan bahwa perhitungan luas telah selesai.
+![Screenshot 2024-03-07 125148](https://github.com/daffahag123/TP1PROVIS2024C2/assets/135239333/7cb1f3aa-e0d6-418a-8310-15eb03952c33)
